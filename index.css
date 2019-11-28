@@ -129,7 +129,7 @@ a {
 }
 
 .home{
-	/*background: no-repeat center/cover url(img/spring-background.jpg);*/
+	background: no-repeat center/cover url(img/spring-background.jpg);
 	margin-top: 58px;
 	height: 800px;
 	display: flex;
@@ -200,7 +200,6 @@ a {
 .list-ingred ul li{
 	line-height: 42px;
 	font-size: 19px;
-	/*font-family: Lucida Sans Unicode;*/
 }
 .right{
 	background-color: #f1c299;
