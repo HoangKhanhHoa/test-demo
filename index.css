@@ -125,7 +125,7 @@ a {
 
 .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
 .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-   top: 0;
+    top: 0;
 }
 /* end menu btn */
 /* Section index */
